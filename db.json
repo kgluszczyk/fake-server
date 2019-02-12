@@ -13,6 +13,12 @@
       "image": "https://hospitality-on.com/sites/default/files/2018-06/edin.jpg"
     },
     {
+      "title": "Glasgow",
+      "country": "Scotland",
+      "description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands. It's famed for its Victorian and art nouveau architecture, a rich legacy of the city's 18th–20th-century prosperity due to trade and shipbuilding. Today it's a national cultural hub, home to institutions including the Scottish Opera, Scottish Ballet and National Theatre of Scotland, as well as acclaimed museums and a thriving music scene.",
+      "image": "https://i2-prod.glasgowlive.co.uk/incoming/article11130566.ece/ALTERNATES/s615/GettyImages-140339251.jpg"
+    },
+    {
       "title": "Mestia",
       "country": "Georgia",
       "description": "Mestia is a highland townlet in northwest Georgia, at an elevation of 1,500 metres in the Caucasus Mountains.",
@@ -31,12 +37,6 @@
       "image": "https://blog.hotelscombined.com/wp-content/uploads/2017/08/Lisbon-1.jpg"
     },
     {
-      "title": "Glasgow",
-      "country": "Scotland",
-      "description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands. It's famed for its Victorian and art nouveau architecture, a rich legacy of the city's 18th–20th-century prosperity due to trade and shipbuilding. Today it's a national cultural hub, home to institutions including the Scottish Opera, Scottish Ballet and National Theatre of Scotland, as well as acclaimed museums and a thriving music scene.",
-      "image": "https://i2-prod.glasgowlive.co.uk/incoming/article11130566.ece/ALTERNATES/s615/GettyImages-140339251.jpg"
-    },
-    {
       "title": "Lübeck",
       "country": "Germany",
       "description": "Lübeck is a northern German city distinguished by Brick Gothic architecture, which dates to its time as the medieval capital of the Hanseatic League, a powerful trading confederation. Its symbol is the Holstentor, a red-brick city gate that defended the river-bounded Altstadt (old town). Rebuilt following WW II, the Marienkirche is a 13th–14th-century landmark that widely influenced Northern European church design.",
@@ -47,6 +47,12 @@
       "country": "Germany",
       "description": "Schwerin is the capital and second-largest city of the northeastern German state of Mecklenburg-Vorpommern. It has a population of about 100,000. Schwerin was first mentioned in 1018 as Wendenburg and was granted city rights in 1160 by Henry the Lion, thus it is the oldest city of Mecklenburg-Vorpommern.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj26tbGDCJpkQ5Ms6uIfF7dmKhSwXm9EHzZTXVzPzpslFLtP5c"
+    },
+    {
+      "title": "Dresden",
+      "country": "Germany",
+      "description": "Dresden, capital of the eastern German state of Saxony, is distinguished by the celebrated art museums and classic architecture of its reconstructed old town. Completed in 1743 and rebuilt after WWII, the baroque church Frauenkirche is famed for its grand dome. The Versailles-inspired Zwinger palace houses museums including Gemäldegalerie Alte Meister, exhibiting masterpieces of art like Raphael’s “Sistine Madonna.”",
+      "image": "http://www.dresden.de/media/tourismus/sehenswert/493x330_panorama_dresden_altstadt.jpg"
     },
     {
       "title": "Liverpool",
@@ -61,22 +67,16 @@
       "image": "https://www.visitbritain.com/sites/default/files/consumer_destinations/teaser_images/manchester_town_hall.jpg"
     },
     {
-      "title": "Kufstein",
-      "country": "Austria",
-      "description": "Kufstein is a town in the western Austrian province of Tyrol. The medieval Kufstein Fortress, accessible by funicular or steep path, has views of the Lower Inn Valley and the Alps. It is also home to a local history museum and the huge, open-air Heroes Organ. Narrow streets like Römerhofgasse are lined with traditional Tyrolean houses. The Riedel Glass factory has been family-run since 1756.",
-      "image": "https://d3u9sm4kpb9d1j.cloudfront.net/pictures/1464704"
-    },
-    {
-      "title": "Dresden",
-      "country": "Germany",
-      "description": "Dresden, capital of the eastern German state of Saxony, is distinguished by the celebrated art museums and classic architecture of its reconstructed old town. Completed in 1743 and rebuilt after WWII, the baroque church Frauenkirche is famed for its grand dome. The Versailles-inspired Zwinger palace houses museums including Gemäldegalerie Alte Meister, exhibiting masterpieces of art like Raphael’s “Sistine Madonna.”",
-      "image": "http://www.dresden.de/media/tourismus/sehenswert/493x330_panorama_dresden_altstadt.jpg"
-    },
-    {
       "title": "London",
       "country": "Great Britan",
       "description": "DescriptionLondon, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
       "image": "https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg"
+    },
+    {
+      "title": "Kufstein",
+      "country": "Austria",
+      "description": "Kufstein is a town in the western Austrian province of Tyrol. The medieval Kufstein Fortress, accessible by funicular or steep path, has views of the Lower Inn Valley and the Alps. It is also home to a local history museum and the huge, open-air Heroes Organ. Narrow streets like Römerhofgasse are lined with traditional Tyrolean houses. The Riedel Glass factory has been family-run since 1756.",
+      "image": "https://d3u9sm4kpb9d1j.cloudfront.net/pictures/1464704"
     }
   ]
 }
