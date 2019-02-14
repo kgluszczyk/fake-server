@@ -2,7 +2,7 @@
   "destinations": [
     {
       "id": 0,
-      "title": "Isle of Skye",
+      "title": "Isle of Skye2",
       "country": "Scotland",
       "description": "The Isle of Skye, connected to Scotland's northwest coast by bridge, is known for its rugged landscapes, picturesque fishing villages and medieval castles. The largest island in the Inner Hebrides archipelago, it has an indented coastline of peninsulas and narrow lochs, radiating out from a mountainous interior. The town of Portree, a base for exploring the island, features harbourside pubs and boutiques.",
       "image": "https://www.thecultureist.com/wp-content/uploads/2016/08/Isle-Of-Skye-Bridge-Over-Water.jpg"
@@ -90,6 +90,62 @@
       "country": "Austria",
       "description": "Kufstein is a town in the western Austrian province of Tyrol. The medieval Kufstein Fortress, accessible by funicular or steep path, has views of the Lower Inn Valley and the Alps. It is also home to a local history museum and the huge, open-air Heroes Organ. Narrow streets like Römerhofgasse are lined with traditional Tyrolean houses. The Riedel Glass factory has been family-run since 1756.",
       "image": "https://d3u9sm4kpb9d1j.cloudfront.net/pictures/1464704"
+    },
+    {
+      "id": 13,
+      "title": "Piła",
+      "country": "Poland",
+      "description": "",
+      "image": "https://d3u9sm4kpb9d1j.cloudfront.net/pictures/1464704"
+    },
+    {
+      "id": 14,
+      "title": "Łódź",
+      "country": "Poland",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 15,
+      "title": "Gdańsk",
+      "country": "Poland",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 16,
+      "title": "Sopot",
+      "country": "Poland",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 17,
+      "title": "Katowice",
+      "country": "Poland",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 18,
+      "title": "Karpacz",
+      "country": "Poland",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 19,
+      "title": "Sieradów Zdrój",
+      "country": "Poland",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 20,
+      "title": "Poznań",
+      "country": "Poland",
+      "description": "",
+      "image": ""
     }
   ]
 }
