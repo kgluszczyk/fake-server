@@ -197,53 +197,11 @@
       "image": "http://bit.ly/d-gda"
     },
     {
-      "id": 28,
-      "title": "Sieradów Zdrój",
-      "country": "Poland",
-      "description": "Świeradów-Zdrój is a spa town in Lubań County, Lower Silesian Voivodeship, in south-western Poland near the border with the Czech Republic.",
-      "image": "http://www.karkonosze.pl/img/images/miasta/swieradow_zroj/swieradow_zdroj_wyciag_5.jpg"
-    },
-    {
-      "id": 29,
-      "title": "Sopot",
-      "country": "Poland",
-      "description": "Sopot is a town on the Baltic Sea in northern Poland. Along with neighboring cities Gdynia and Gdańsk, it forms the so-called Tri-City metropolitan area.",
-      "image": "https://podroze.smcloud.net/t/photos/t/143553/sopot_1121925.jpg"
-    },
-    {
       "id": 30,
       "title": "Katowice",
       "country": "Poland",
       "description": "Katowice is a city in southern Poland.",
       "image": "https://bi.im-g.pl/im/b6/53/17/z24459958V,Katowice--centrum-miasta.jpg"
-    },
-    {
-      "id": 31,
-      "title": "Gniezno",
-      "country": "Poland",
-      "description": "Poznań is a city on the Warta River in western Poland.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Catedral_de_Gniezno%2C_Gniezno%2C_Polonia%2C_2014-09-20%2C_DD_40-42_HDR.jpg/1920px-Catedral_de_Gniezno%2C_Gniezno%2C_Polonia%2C_2014-09-20%2C_DD_40-42_HDR.jpg"
-    },
-    {
-      "id": 32,
-      "title": "Legnica",
-      "country": "Poland",
-      "description": "Legnica is a city in southwestern Poland, in the central part of Lower Silesia, on the Kaczawa River and the Czarna Woda.",
-      "image": "http://salondomen.pl/wp-content/uploads/2018/11/Legnica.jpg"
-    },
-    {
-      "id": 33,
-      "title": "Bolków",
-      "country": "Poland",
-      "description": "DescriptionBolków is a town in Jawor County, Lower Silesian Voivodeship, in south-western Poland.",
-      "image": "https://media.gosciniecpodgrusza.pl/m/2016/10/zamek-bolkow-3.jpg"
-    },
-    {
-      "id": 34,
-      "title": "Biskupin",
-      "country": "Poland",
-      "description": "The archaeological open-air museum Biskupin is an archaeological site and a life-size model of an Iron Age fortified settlement in Poland.",
-      "image": "https://mm.pwn.pl/ency/jpg/583/9/d85i6573.jpg"
     }
   ]
 }
