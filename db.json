@@ -5,203 +5,203 @@
       "title": "Isle of Skye",
       "country": "Scotland",
       "description": "The Isle of Skye, connected to Scotland's northwest coast by bridge, is known for its rugged landscapes, picturesque fishing villages and medieval castles.",
-      "image": "http://bit.ly/i-f-k"
+      "image": "https://bit.ly/i-f-k"
     },
     {
       "id": 1,
       "title": "Edinborough",
       "country": "Scotland",
       "description": "Edinburgh is Scotland's compact, hilly capital.",
-      "image": "http://bit.ly/d-edin"
+      "image": "https://bit.ly/d-edin"
     },
     {
       "id": 2,
       "title": "Glasgow",
       "country": "Scotland",
       "description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands.",
-      "image": "http://bit.ly/k-gl"
+      "image": "https://bit.ly/k-gl"
     },
     {
       "id": 3,
       "title": "Mestia",
       "country": "Georgia",
       "description": "Mestia is a highland townlet in northwest Georgia, at an elevation of 1,500 metres in the Caucasus Mountains.",
-      "image": "http://bit.ly/d-mest"
+      "image": "https://bit.ly/d-mest"
     },
     {
       "id": 4,
       "title": "Stepansminda",
       "country": "Georgia",
       "description": "Stepantsminda, is a townlet in the Mtskheta-Mtianeti region of north-eastern Georgia.",
-      "image": "http://bit.ly/d-step"
+      "image": "https://bit.ly/d-step"
     },
     {
       "id": 5,
       "title": "Tibilisi",
       "country": "Georgia",
       "description": "Tbilisi is the capital of the country of Georgia.",
-      "image": "http://bit.ly/2X7e3Xo"
+      "image": "https://bit.ly/2X7e3Xo"
     },
     {
       "id": 6,
       "title": "Vardzia",
       "country": "Georgia",
       "description": "Vardzia is a cave monastery site in southern Georgia.",
-      "image": "http://bit.ly/d-var"
+      "image": "https://bit.ly/d-var"
     },
     {
       "id": 7,
       "title": "Zugdidi",
       "country": "Georgia",
       "description": "Zugdidi is a city in the Western Georgian historical province of Samegrelo.",
-      "image": "http://bit.ly/d-zug"
+      "image": "https://bit.ly/d-zug"
     },
     {
       "id": 8,
       "title": "Kutaisi",
       "country": "Georgia",
       "description": "Kutaisi is a city in west Georgia. It's home to the centuries-old Bagrati Cathedral.",
-      "image": "http://bit.ly/d-kut"
+      "image": "https://bit.ly/d-kut"
     },
     {
       "id": 9,
       "title": "Ananuri",
       "country": "Georgia",
       "description": "Ananuri is a castle complex on the Aragvi River in Georgia, about 45 miles from Tbilisi.",
-      "image": "http://bit.ly/d-anan"
+      "image": "https://bit.ly/d-anan"
     },
     {
       "id": 10,
       "title": "Anaklia",
       "country": "Georgia",
       "description": "Anaklia is a town and seaside resort in western Georgia.",
-      "image": "http://bit.ly/d-anak"
+      "image": "https://bit.ly/d-anak"
     },
     {
       "id": 11,
       "title": "Prague",
       "country": "Czech Republic",
       "description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River.",
-      "image": "http://bit.ly/d-prague"
+      "image": "https://bit.ly/d-prague"
     },
     {
       "id": 12,
       "title": "Lisbon",
       "country": "Portugal",
       "description": "Lisbon is Portugal’s hilly, coastal capital city.",
-      "image": "http://bit.ly/d-lisbon"
+      "image": "https://bit.ly/d-lisbon"
     },
     {
       "id": 13,
       "title": "Lübeck",
       "country": "Germany",
       "description": "Lübeck is a northern German city distinguished by Brick Gothic architecture, which dates to its time as the medieval capital of the Hanseatic League, a powerful trading confederation.",
-      "image": "http://bit.ly/d-lubeck"
+      "image": "https://bit.ly/d-lubeck"
     },
     {
       "id": 14,
       "title": "Schwerin",
       "country": "Germany",
       "description": "Schwerin is the capital and second-largest city of the northeastern German state of Mecklenburg-Vorpommern.",
-      "image": "http://bit.ly/d-schwer"
+      "image": "https://bit.ly/d-schwer"
     },
     {
       "id": 15,
       "title": "Dresden",
       "country": "Germany",
       "description": "Dresden, capital of the eastern German state of Saxony, is distinguished by the celebrated art museums and classic architecture of its reconstructed old town.",
-      "image": "http://bit.ly/d-dresden"
+      "image": "https://bit.ly/d-dresden"
     },
     {
       "id": 16,
       "title": "Liverpool",
       "country": "Great Brittan",
       "description": "Liverpool is a maritime city in northwest England, where the River Mersey meets the Irish Sea.",
-      "image": "http://bit.ly/d-liver"
+      "image": "https://bit.ly/d-liver"
     },
     {
       "id": 17,
       "title": "Manchester",
       "country": "Great Brittan",
       "description": "Manchester is a major city in the northwest of England with a rich industrial heritage.",
-      "image": "http://bit.ly/d-mach"
+      "image": "https://bit.ly/d-mach"
     },
     {
       "id": 18,
       "title": "London",
       "country": "Great Brittan",
       "description": "DescriptionLondon, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times.",
-      "image": "http://bit.ly/d-lon"
+      "image": "https://bit.ly/d-lon"
     },
     {
       "id": 19,
       "title": "Leeds",
       "country": "Great Brittan",
       "description": "Manchester is a major city in the northwest of England with a rich industrial heritage.",
-      "image": "http://bit.ly/d-leeds"
+      "image": "https://bit.ly/d-leeds"
     },
     {
       "id": 20,
       "title": "Kufstein",
       "country": "Austria",
       "description": "Kufstein is a town in the western Austrian province of Tyrol.",
-      "image": "http://bit.ly/d-kuf"
+      "image": "https://bit.ly/d-kuf"
     },
     {
       "id": 21,
       "title": "Wałbrzych",
       "country": "Poland",
       "description": "Wałbrzych is a city in Lower Silesian Voivodeship in southwestern Poland. From 1975–1998 it was the capital of Wałbrzych Voivodeship; it is now the seat of Wałbrzych County.",
-      "image": "http://bit.ly/d-walb"
+      "image": "https://bit.ly/d-walb"
     },
     {
       "id": 22,
       "title": "Wrocław",
       "country": "Poland",
       "description": "Wrocław is a city on the Oder River in western Poland. It’s known for its Market Square, lined with elegant townhouses and featuring a modern fountain.",
-      "image": "http://bit.ly/d-wro"
+      "image": "https://bit.ly/d-wro"
     },
     {
       "id": 23,
       "title": "Poznań",
       "country": "Poland",
       "description": "Poznań is a city on the Warta River in western Poland.",
-      "image": "http://bit.ly/d-poz"
+      "image": "https://bit.ly/d-poz"
     },
     {
       "id": 24,
       "title": "Piła",
       "country": "Poland",
       "description": "Piła is a town in northwestern Poland situated in the Greater Poland Voivodeship, previously capital of Piła Voivodeship.",
-      "image": "http://bit.ly/d-pila"
+      "image": "https://bit.ly/d-pila"
     },
     {
       "id": 25,
       "title": "Łódź",
       "country": "Poland",
       "description": "Łódź is a city in central Poland, known as a former textile-manufacturing hub.",
-      "image": "http://bit.ly/d-lodz"
+      "image": "https://bit.ly/d-lodz"
     },
     {
       "id": 26,
       "title": "Kraków",
       "country": "Poland",
       "description": "Kraków, a southern Poland city near the border of the Czech Republic, is known for its well-preserved medieval core and Jewish quarter.",
-      "image": "http://bit.ly/d-kra"
+      "image": "https://bit.ly/d-kra"
     },
     {
       "id": 27,
       "title": "Gdańsk",
       "country": "Poland",
       "description": "Gdańsk (Danzig in German) is a port city on the Baltic coast of Poland.",
-      "image": "http://bit.ly/d-gda"
+      "image": "https://bit.ly/d-gda"
     },
     {
       "id": 28,
       "title": "Sieradów Zdrój",
       "country": "Poland",
       "description": "Świeradów-Zdrój is a spa town in Lubań County, Lower Silesian Voivodeship, in south-western Poland near the border with the Czech Republic.",
-      "image": "http://www.karkonosze.pl/img/images/miasta/swieradow_zroj/swieradow_zdroj_wyciag_5.jpg"
+      "image": "https://www.karkonosze.pl/img/images/miasta/swieradow_zroj/swieradow_zdroj_wyciag_5.jpg"
     },
     {
       "id": 29,
