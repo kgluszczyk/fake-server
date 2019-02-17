@@ -4,245 +4,245 @@
       "id": 0,
       "title": "Isle of Skye",
       "country": "Scotland",
-      "description": "The Isle of Skye, connected to Scotland's northwest coast by bridge, is known for its rugged landscapes, picturesque fishing villages and medieval castles. The largest island in the Inner Hebrides archipelago, it has an indented coastline of peninsulas and narrow lochs, radiating out from a mountainous interior. The town of Portree, a base for exploring the island, features harbourside pubs and boutiques.",
-      "image": "https://www.thecultureist.com/wp-content/uploads/2016/08/Isle-Of-Skye-Bridge-Over-Water.jpg"
+      "description": "The Isle of Skye, connected to Scotland's northwest coast by bridge, is known for its rugged landscapes, picturesque fishing villages and medieval castles.",
+      "image": "http://bit.ly/i-f-k"
     },
     {
       "id": 1,
       "title": "Edinborough",
       "country": "Scotland",
-      "description": "Edinburgh is Scotland's compact, hilly capital. It has a medieval Old Town and elegant Georgian New Town with gardens and neoclassical buildings. Looming over the city is Edinburgh Castle, home to Scotland’s crown jewels and the Stone of Destiny, used in the coronation of Scottish rulers. Arthur’s Seat is an imposing peak in Holyrood Park with sweeping views, and Calton Hill is topped with monuments and memorials.",
-      "image": "https://hospitality-on.com/sites/default/files/2018-06/edin.jpg"
+      "description": "Edinburgh is Scotland's compact, hilly capital.",
+      "image": "http://bit.ly/d-edin"
     },
     {
       "id": 2,
       "title": "Glasgow",
       "country": "Scotland",
-      "description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands. It's famed for its Victorian and art nouveau architecture, a rich legacy of the city's 18th–20th-century prosperity due to trade and shipbuilding. Today it's a national cultural hub, home to institutions including the Scottish Opera, Scottish Ballet and National Theatre of Scotland, as well as acclaimed museums and a thriving music scene.",
-      "image": "https://i2-prod.glasgowlive.co.uk/incoming/article11130566.ece/ALTERNATES/s615/GettyImages-140339251.jpg"
+      "description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands.",
+      "image": "http://bit.ly/k-gl"
     },
     {
       "id": 3,
       "title": "Mestia",
       "country": "Georgia",
       "description": "Mestia is a highland townlet in northwest Georgia, at an elevation of 1,500 metres in the Caucasus Mountains.",
-      "image": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/33227/SITours/private-tour-to-mestia-ushguli-svaneti-the-magical-mountains-in-tbilisi-542164.jpg"
+      "image": "http://bit.ly/d-mest"
     },
     {
       "id": 4,
       "title": "Stepansminda",
       "country": "Georgia",
-      "description": "Stepantsminda, is a townlet in the Mtskheta-Mtianeti region of north-eastern Georgia. Historically and ethnographically, the town is part of the Khevi province. It is the center of the Kazbegi Municipality.",
-      "image": "https://global-goose.com/wp-content/uploads/2018/06/34561778_1688726611182258_2293153279229558784_n.jpg"
+      "description": "Stepantsminda, is a townlet in the Mtskheta-Mtianeti region of north-eastern Georgia.",
+      "image": "http://bit.ly/d-step"
     },
     {
       "id": 5,
       "title": "Tibilisi",
       "country": "Georgia",
-      "description": "Tbilisi is the capital of the country of Georgia. Its cobblestoned old town reflects a long, complicated history, with periods under Persian and Russian rule. Its diverse architecture encompasses Eastern Orthodox churches, ornate art nouveau buildings and Soviet Modernist structures. Looming over it all are Narikala, a reconstructed 4th-century fortress, and Kartlis Deda, an iconic statue of the “Mother of Georgia.”",
-      "image": "https://static01.nyt.com/images/2018/06/17/travel/17hours1/merlin_138493119_dc17f17f-96a2-4487-a9ea-214914926374-articleLarge.jpg"
+      "description": "Tbilisi is the capital of the country of Georgia.",
+      "image": "http://bit.ly/2X7e3Xo"
     },
     {
       "id": 6,
       "title": "Vardzia",
       "country": "Georgia",
-      "description": "Vardzia is a cave monastery site in southern Georgia, excavated from the slopes of the Erusheti Mountain on the left bank of the Kura River, thirty kilometres from Aspindza. The main period of construction was the second half of the twelfth century.",
-      "image": "https://lonelyplanetimages.imgix.net/a/g/hi/t/60eab929b9adc59e926c1ae7201470c5-vardzia.jpg"
+      "description": "Vardzia is a cave monastery site in southern Georgia.",
+      "image": "http://bit.ly/d-var"
     },
     {
       "id": 7,
       "title": "Zugdidi",
       "country": "Georgia",
-      "description": "Zugdidi is a city in the Western Georgian historical province of Samegrelo. It is situated in the north-west of that province. The city is located 318 kilometres west of Tbilisi, 30 km from the Black Sea coast and 30 km from the Egrisi Range, at an elevation of 100–110 metres above sea level.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zugdidi%2C_Dadiani_Palaces%2C_Georgia.jpg/800px-Zugdidi%2C_Dadiani_Palaces%2C_Georgia.jpg"
+      "description": "Zugdidi is a city in the Western Georgian historical province of Samegrelo.",
+      "image": "http://bit.ly/d-zug"
     },
     {
       "id": 8,
       "title": "Kutaisi",
       "country": "Georgia",
-      "description": "Kutaisi is a city in west Georgia. It's home to the centuries-old Bagrati Cathedral. On the city's outskirts, the Gelati Monastery is a medieval cathedral with elaborate frescoes. The nearby hillside Motsameta Monastery has martyrs' remains. Historical Georgian manuscripts, ceramics and textiles are on display at the Kutaisi State Historical Museum. To the northwest, Prometheus Cave features petrified waterfalls.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Downtown_Kutaisi_%26_White_Bridge_as_seen_from_Mt_Gora_%28August_2011%29-cropped.jpg"
+      "description": "Kutaisi is a city in west Georgia. It's home to the centuries-old Bagrati Cathedral.",
+      "image": "http://bit.ly/d-kut"
     },
     {
       "id": 9,
       "title": "Ananuri",
       "country": "Georgia",
       "description": "Ananuri is a castle complex on the Aragvi River in Georgia, about 45 miles from Tbilisi.",
-      "image": "https://backpacktours.ge/wp-content/uploads/2016/05/ananuri-georgia-01.jpg"
+      "image": "http://bit.ly/d-anan"
     },
     {
       "id": 10,
       "title": "Anaklia",
       "country": "Georgia",
-      "description": "Anaklia is a town and seaside resort in western Georgia. It is located in the Samegrelo-Zemo Svaneti region, at the place where the Enguri River flows into the Black Sea, near the administrative border with Abkhazia.",
-      "image": "https://cdn.mygeotrip.com/wp-content/uploads/2017/04/11865005_1657134191240125_995431574105063360_o.jpg"
+      "description": "Anaklia is a town and seaside resort in western Georgia.",
+      "image": "http://bit.ly/d-anak"
     },
     {
       "id": 11,
       "title": "Prague",
       "country": "Czech Republic",
-      "description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River. Nicknamed “the City of a Hundred Spires,” it's known for its Old Town Square, the heart of its historic core, with colorful baroque buildings, Gothic churches and the medieval Astronomical Clock, which gives an animated hourly show. Completed in 1402, pedestrian Charles Bridge is lined with statues of Catholic saints.",
-      "image": "https://gq-images.condecdn.net/image/n1rD6napg66/crop/1620/landscape/f/Prague-hp-GQ-8Dec16_istock_b.jpg"
+      "description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River.",
+      "image": "http://bit.ly/d-prague"
     },
     {
       "id": 12,
       "title": "Lisbon",
       "country": "Portugal",
-      "description": "Lisbon is Portugal’s hilly, coastal capital city. From imposing São Jorge Castle, the view encompasses the old city’s pastel-colored buildings, Tagus Estuary and Ponte 25 de Abril suspension bridge. Nearby, the National Azulejo Museum displays 5 centuries of decorative ceramic tiles. Just outside Lisbon is a string of Atlantic beaches, from Cascais to Estoril.",
-      "image": "https://blog.hotelscombined.com/wp-content/uploads/2017/08/Lisbon-1.jpg"
+      "description": "Lisbon is Portugal’s hilly, coastal capital city.",
+      "image": "http://bit.ly/d-lisbon"
     },
     {
       "id": 13,
       "title": "Lübeck",
       "country": "Germany",
-      "description": "Lübeck is a northern German city distinguished by Brick Gothic architecture, which dates to its time as the medieval capital of the Hanseatic League, a powerful trading confederation. Its symbol is the Holstentor, a red-brick city gate that defended the river-bounded Altstadt (old town). Rebuilt following WW II, the Marienkirche is a 13th–14th-century landmark that widely influenced Northern European church design.",
-      "image": "https://www.telegraph.co.uk/content/dam/Travel/leadAssets/22/33/lubeck-river_2233302a.jpg?imwidth=450"
+      "description": "Lübeck is a northern German city distinguished by Brick Gothic architecture, which dates to its time as the medieval capital of the Hanseatic League, a powerful trading confederation.",
+      "image": "http://bit.ly/d-lubeck"
     },
     {
       "id": 14,
       "title": "Schwerin",
       "country": "Germany",
-      "description": "Schwerin is the capital and second-largest city of the northeastern German state of Mecklenburg-Vorpommern. It has a population of about 100,000. Schwerin was first mentioned in 1018 as Wendenburg and was granted city rights in 1160 by Henry the Lion, thus it is the oldest city of Mecklenburg-Vorpommern.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj26tbGDCJpkQ5Ms6uIfF7dmKhSwXm9EHzZTXVzPzpslFLtP5c"
+      "description": "Schwerin is the capital and second-largest city of the northeastern German state of Mecklenburg-Vorpommern.",
+      "image": "http://bit.ly/d-schwer"
     },
     {
       "id": 15,
       "title": "Dresden",
       "country": "Germany",
-      "description": "Dresden, capital of the eastern German state of Saxony, is distinguished by the celebrated art museums and classic architecture of its reconstructed old town. Completed in 1743 and rebuilt after WWII, the baroque church Frauenkirche is famed for its grand dome. The Versailles-inspired Zwinger palace houses museums including Gemäldegalerie Alte Meister, exhibiting masterpieces of art like Raphael’s “Sistine Madonna.”",
-      "image": "https://www.dresden.de/media/tourismus/sehenswert/493x330_panorama_dresden_altstadt.jpg"
+      "description": "Dresden, capital of the eastern German state of Saxony, is distinguished by the celebrated art museums and classic architecture of its reconstructed old town.",
+      "image": "http://bit.ly/d-dresden"
     },
     {
       "id": 16,
       "title": "Liverpool",
       "country": "Great Brittan",
-      "description": "Liverpool is a maritime city in northwest England, where the River Mersey meets the Irish Sea. A key trade and migration port from the 18th to the early 20th centuries, it's also, famously, the hometown of The Beatles. Ferries cruise the waterfront, where the iconic mercantile buildings known as the \"Three Graces\" – Royal Liver Building, Cunard Building and Port of Liverpool Building – stand on the Pier Head.",
-      "image": "https://www.insidermedia.com/uploads/news/Albert_Dock_Liverpool.jpeg"
+      "description": "Liverpool is a maritime city in northwest England, where the River Mersey meets the Irish Sea.",
+      "image": "http://bit.ly/d-liver"
     },
     {
       "id": 17,
       "title": "Manchester",
       "country": "Great Brittan",
-      "description": "Manchester is a major city in the northwest of England with a rich industrial heritage. The Castlefield conservation area’s 18th-century canal system recalls the city’s days as a textile powerhouse, and visitors can trace this history at the interactive Museum of Science & Industry. The revitalised Salford Quays dockyards now house the Daniel Libeskind-designed Imperial War Museum North and the Lowry cultural centre.",
-      "image": "https://www.visitbritain.com/sites/default/files/consumer_destinations/teaser_images/manchester_town_hall.jpg"
+      "description": "Manchester is a major city in the northwest of England with a rich industrial heritage.",
+      "image": "http://bit.ly/d-mach"
     },
     {
       "id": 18,
       "title": "London",
       "country": "Great Brittan",
-      "description": "DescriptionLondon, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
-      "image": "https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg"
+      "description": "DescriptionLondon, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times.",
+      "image": "http://bit.ly/d-lon"
     },
     {
       "id": 19,
       "title": "Leeds",
       "country": "Great Brittan",
-      "description": "Manchester is a major city in the northwest of England with a rich industrial heritage. The Castlefield conservation area’s 18th-century canal system recalls the city’s days as a textile powerhouse, and visitors can trace this history at the interactive Museum of Science & Industry. The revitalised Salford Quays dockyards now house the Daniel Libeskind-designed Imperial War Museum North and the Lowry cultural centre.",
-      "image": "https://www.visitbritain.com/sites/default/files/consumer_destinations/teaser_images/manchester_town_hall.jpg"
+      "description": "Manchester is a major city in the northwest of England with a rich industrial heritage.",
+      "image": "http://bit.ly/d-leeds"
     },
     {
       "id": 20,
       "title": "Kufstein",
       "country": "Austria",
-      "description": "Kufstein is a town in the western Austrian province of Tyrol. The medieval Kufstein Fortress, accessible by funicular or steep path, has views of the Lower Inn Valley and the Alps. It is also home to a local history museum and the huge, open-air Heroes Organ. Narrow streets like Römerhofgasse are lined with traditional Tyrolean houses. The Riedel Glass factory has been family-run since 1756.",
-      "image": "https://d3u9sm4kpb9d1j.cloudfront.net/pictures/1464704"
+      "description": "Kufstein is a town in the western Austrian province of Tyrol.",
+      "image": "http://bit.ly/d-kuf"
     },
     {
       "id": 21,
       "title": "Wałbrzych",
       "country": "Poland",
-      "description": "Wałbrzych is a city in Lower Silesian Voivodeship in southwestern Poland. From 1975–1998 it was the capital of Wałbrzych Voivodeship; it is now the seat of Wałbrzych County. Wałbrzych lies approximately 70 kilometres southwest of the voivodeship capital Wrocław and about 30 kilometres from the Czech border.",
-      "image": "https://www.ksiaz.walbrzych.pl/application/templates/default/i/main-photo.jpg"
+      "description": "Wałbrzych is a city in Lower Silesian Voivodeship in southwestern Poland. From 1975–1998 it was the capital of Wałbrzych Voivodeship; it is now the seat of Wałbrzych County.",
+      "image": "http://bit.ly/d-walb"
     },
     {
       "id": 22,
       "title": "Wrocław",
       "country": "Poland",
-      "description": "Wrocław is a city on the Oder River in western Poland. It’s known for its Market Square, lined with elegant townhouses and featuring a modern fountain. Also on the square is the Gothic Old Town Hall, with its large astronomical clock. Nearby is the Panorama of Racławice, a painting depicting the 1794 battle for independence. The Centennial Hall auditorium, with its giant dome and tall spire, lies across the river.",
-      "image": "https://ahk.pl/fileadmin/AHK_Polen/Mitgliedschaft/Photos/maleWroclaw.jpg"
+      "description": "Wrocław is a city on the Oder River in western Poland. It’s known for its Market Square, lined with elegant townhouses and featuring a modern fountain.",
+      "image": "http://bit.ly/d-wro"
     },
     {
       "id": 23,
       "title": "Poznań",
       "country": "Poland",
-      "description": "Poznań is a city on the Warta River in western Poland. It’s known for universities as well as its old town, with Renaissance-style buildings in Old Market Square. Poznań Town Hall houses the Historical Museum of Poznań, with exhibits on the city. The town hall's clock features mechanical goats that butt heads at noon. The Gothic and baroque Saints Peter and Paul Cathedral is built on an island called Ostrów Tumski.",
-      "image": "http://t-eska.cdn.smcloud.net/regionalna/t/2/t/image/9484c97ce2c6fb94129d4d4f2988f9deiVBcqJ5z-pozn.jpg/ru-0-r-660,660-q-80-n-9484c97ce2c6fb94129d4d4f2988f9deiVBcqJ5zpozn.jpg"
+      "description": "Poznań is a city on the Warta River in western Poland.",
+      "image": "http://bit.ly/d-poz"
     },
     {
       "id": 24,
       "title": "Piła",
       "country": "Poland",
-      "description": "Piła is a town in northwestern Poland situated in the Greater Poland Voivodeship, previously capital of Piła Voivodeship. It had 73,791 inhabitants as of 2017 making it the fourth-largest city in the voivodeship after Poznań, Kalisz and Konin and is the largest city in the northern part of Greater Poland.",
-      "image": "http://www.outsourcingportal.eu/pl/userfiles/image/_stale/content/pila-otwarta-na-inwestorow.jpg"
+      "description": "Piła is a town in northwestern Poland situated in the Greater Poland Voivodeship, previously capital of Piła Voivodeship.",
+      "image": "http://bit.ly/d-pila"
     },
     {
       "id": 25,
       "title": "Łódź",
       "country": "Poland",
-      "description": "Łódź is a city in central Poland, known as a former textile-manufacturing hub. Its Central Museum of Textiles displays 19th-century machinery, fabrics and handicrafts linked to the trade. Once a factory, the restored Manufaktura complex is now a lively culture and arts center. Nearby is the grand Poznanski Palace, home to the City Museum, with artwork and objects depicting the history of Łódź.",
-      "image": "https://uml.lodz.pl/files/public/_processed_/2/e/csm_csm_DSC_1023-Edit_c4d5530472_cb8140fcc9.jpg"
+      "description": "Łódź is a city in central Poland, known as a former textile-manufacturing hub.",
+      "image": "http://bit.ly/d-lodz"
     },
     {
       "id": 26,
       "title": "Kraków",
       "country": "Poland",
-      "description": "Kraków, a southern Poland city near the border of the Czech Republic, is known for its well-preserved medieval core and Jewish quarter. Its old town – ringed by Planty Park and remnants of the city’s medieval walls – is centered on the stately, expansive Rynek Glówny (market square). This plaza is the site of the Cloth Hall, a Renaissance-era trading outpost, and St. Mary’s Basilica, a 14th-century Gothic church.",
-      "image": "https://www.wprost.pl/_thumb/03/f2/09ed26181ee8de8fb970877087c6.jpeg"
+      "description": "Kraków, a southern Poland city near the border of the Czech Republic, is known for its well-preserved medieval core and Jewish quarter.",
+      "image": "http://bit.ly/d-kra"
     },
     {
       "id": 27,
       "title": "Gdańsk",
       "country": "Poland",
-      "description": "Gdańsk (Danzig in German) is a port city on the Baltic coast of Poland. At the center of its Main Town, reconstructed after WWII, are the colorful facades of Long Market, now home to shops and restaurants. Nearby is Neptune Fountain, a 17th-century symbol of the city topped by a bronze statue of the sea god. Gdańsk is also a center for the world’s amber trade; boutiques throughout the city sell the ossified resin.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg/1200px-Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg"
+      "description": "Gdańsk (Danzig in German) is a port city on the Baltic coast of Poland.",
+      "image": "http://bit.ly/d-gda"
     },
     {
       "id": 28,
       "title": "Sieradów Zdrój",
       "country": "Poland",
-      "description": "Świeradów-Zdrój is a spa town in Lubań County, Lower Silesian Voivodeship, in south-western Poland near the border with the Czech Republic. The town is located in the Kwisa valley of the Jizera Mountains, a part of the Sudetes range.",
+      "description": "Świeradów-Zdrój is a spa town in Lubań County, Lower Silesian Voivodeship, in south-western Poland near the border with the Czech Republic.",
       "image": "http://www.karkonosze.pl/img/images/miasta/swieradow_zroj/swieradow_zdroj_wyciag_5.jpg"
     },
     {
       "id": 29,
       "title": "Sopot",
       "country": "Poland",
-      "description": "Sopot is a town on the Baltic Sea in northern Poland. Along with neighboring cities Gdynia and Gdańsk, it forms the so-called Tri-City metropolitan area. Sopot is known for its health spas, sandy beach and its long wooden pier that extends into the Bay of Gdańsk. The Crooked House is a surreal building modeled on fairy-tale illustrations. It's on Sopot’s pedestrianized main street, Monciak, also called Monte Cassino.",
+      "description": "Sopot is a town on the Baltic Sea in northern Poland. Along with neighboring cities Gdynia and Gdańsk, it forms the so-called Tri-City metropolitan area.",
       "image": "https://podroze.smcloud.net/t/photos/t/143553/sopot_1121925.jpg"
     },
     {
       "id": 30,
       "title": "Katowice",
       "country": "Poland",
-      "description": "Katowice is a city in southern Poland, with a city-proper population of 297,197 making it the eleventh-largest city in Poland as of 2017 and is the center of the Katowice metropolitan area, which has approximately 2 million people.",
+      "description": "Katowice is a city in southern Poland.",
       "image": "https://bi.im-g.pl/im/b6/53/17/z24459958V,Katowice--centrum-miasta.jpg"
     },
     {
       "id": 31,
       "title": "Gniezno",
       "country": "Poland",
-      "description": "Poznań is a city on the Warta River in western Poland. It’s known for universities as well as its old town, with Renaissance-style buildings in Old Market Square. Poznań Town Hall houses the Historical Museum of Poznań, with exhibits on the city. The town hall's clock features mechanical goats that butt heads at noon. The Gothic and baroque Saints Peter and Paul Cathedral is built on an island called Ostrów Tumski.",
-      "image": "http://t-eska.cdn.smcloud.net/regionalna/t/2/t/image/9484c97ce2c6fb94129d4d4f2988f9deiVBcqJ5z-pozn.jpg/ru-0-r-660,660-q-80-n-9484c97ce2c6fb94129d4d4f2988f9deiVBcqJ5zpozn.jpg"
+      "description": "Poznań is a city on the Warta River in western Poland.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Catedral_de_Gniezno%2C_Gniezno%2C_Polonia%2C_2014-09-20%2C_DD_40-42_HDR.jpg/1920px-Catedral_de_Gniezno%2C_Gniezno%2C_Polonia%2C_2014-09-20%2C_DD_40-42_HDR.jpg"
     },
     {
       "id": 32,
       "title": "Legnica",
       "country": "Poland",
-      "description": "Legnica is a city in southwestern Poland, in the central part of Lower Silesia, on the Kaczawa River and the Czarna Woda. Between 1 June 1975 and 31 December 1998 Legnica was the capital of the Legnica Voivodeship. It is currently the seat of the county and since 1992 the city has been the seat of a Diocese.",
+      "description": "Legnica is a city in southwestern Poland, in the central part of Lower Silesia, on the Kaczawa River and the Czarna Woda.",
       "image": "http://salondomen.pl/wp-content/uploads/2018/11/Legnica.jpg"
     },
     {
       "id": 33,
       "title": "Bolków",
       "country": "Poland",
-      "description": "https://www.wroclaw.pl/go/download/img-9a111c032df7bd0826c90f429fdf8a4b/2128aviki-Zamek-Bolkow-Foto-Barbara-Maliszewska-jpg.jpg",
-      "image": "http://t-eska.cdn.smcloud.net/regionalna/t/2/t/image/9484c97ce2c6fb94129d4d4f2988f9deiVBcqJ5z-pozn.jpg/ru-0-r-660,660-q-80-n-9484c97ce2c6fb94129d4d4f2988f9deiVBcqJ5zpozn.jpg"
+      "description": "DescriptionBolków is a town in Jawor County, Lower Silesian Voivodeship, in south-western Poland.",
+      "image": "https://media.gosciniecpodgrusza.pl/m/2016/10/zamek-bolkow-3.jpg"
     },
     {
       "id": 34,
       "title": "Biskupin",
       "country": "Poland",
-      "description": "The archaeological open-air museum Biskupin is an archaeological site and a life-size model of an Iron Age fortified settlement in Poland. When first discovered it was thought to be early evidence of Slavic settlement but archaeologists later confirmed it belonged to the Biskupin group of the Lusatian culture.",
+      "description": "The archaeological open-air museum Biskupin is an archaeological site and a life-size model of an Iron Age fortified settlement in Poland.",
       "image": "https://mm.pwn.pl/ency/jpg/583/9/d85i6573.jpg"
     }
   ]
